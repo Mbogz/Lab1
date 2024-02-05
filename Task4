@@ -1,0 +1,11 @@
+------------------------------------
+|             <<List>>             |
+------------------------------------
+| +CreateList()                          |
+| + size(): int                    |
+| + isEmpty(): bool                |
+| + getSize(): int                 |
+| +add(e:Element; position:int):bool   |
+| +remove(e:Element; position:int): void  |
+| +find(index: int): ElementType   |
+---------------------------------------------
