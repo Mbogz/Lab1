@@ -1,3 +1,8 @@
+JEFF MBOGO
+SCT212-0125/2022
+
+
+
 Data Structures and Algorithms: LAB ONE [1] 
 Aims 
  To refresh the knowledge of Simple data structures such as arrays and structs
